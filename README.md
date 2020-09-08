@@ -24,7 +24,7 @@
         <th>프로젝트 개요</th>
         <th>채팅프로그램</th>
         <th>개발환경&nbsp;</th>
-        <th>Windows10</th>
+        <th>Linux</th>
     </tr>
     <tr>
         <th colspan="5">사용 도구</th>
@@ -35,7 +35,7 @@
     </tr>
     <tr>
         <th>개발도구</th>
-        <th colspan="3">RaspberryPi, Linux</th>
+        <th colspan="3">RaspberryPi</th>
     </tr>
     <tr>
         <th>사용기술</th>
